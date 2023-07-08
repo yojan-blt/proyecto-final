@@ -1,0 +1,23 @@
+/* DOCUMENTO CSS */
+
+* {margin: 0; padding: 0; font-family: 'Luckiest Guy', cursive; }
+
+header, section, article, footer, div, nav, aside, main {
+    box-sizing: border-box; }
+
+.logo {width: 10px; height: 10px; }
+
+h2 {font-size: 40px; color: #962D53; }
+
+.cono {padding-top: 30px; padding-bottom: 30px; }
+.cono p {font-family: 'Caprasimo', cursive; font-size: 15px; }
+
+div.alert {text-align: center; font-family: 'Caprasimo', cursive; 
+    font-size: 30px; }
+
+.pie div img {width: 230px; }
+
+footer.pie div {font-family: 'Comfortaa', cursive; 
+    font-size: small; }
+
+button.btn {font-size: 10px; }
